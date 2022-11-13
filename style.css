@@ -1,0 +1,47 @@
+.trivia{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+}
+
+.sport{
+    background-color: aqua;
+    display: flex;   
+    margin: 5px;  
+    width: 300px;
+    height: 200px;
+}
+.trivia-history{
+    display: flex;
+    flex-direction: column;
+}
+.trivia-sport{
+    display: flex;
+    flex-direction: column;
+}
+.trivia-animal{
+    display: flex;
+    flex-direction: column;
+}
+
+.animal{
+    background-color: aqua;
+    display: flex;   
+    margin: 5px;
+    width: 300px;
+    height: 200px;
+}
+
+
+.history{
+    background-color: aqua;
+    display: flex;   
+    margin: 5px;   
+    width: 300px;
+    height: 200px;
+}
+
+h3{
+    background-color: burlywood;
+}
+
